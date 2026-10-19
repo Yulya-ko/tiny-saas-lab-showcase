@@ -5,8 +5,7 @@
   <p><strong>Copy. Paste. Launch Faster.</strong></p>
   <p>A library of reusable React components and landing page building blocks for SaaS projects.</p>
   <p>
-    <a href="https://tiny-saas-lab.vercel.app/">Live Demo</a> ·
-    <a href="https://github.com/Yulya-ko">GitHub Profile</a>
+    <a href="https://tiny-saas-lab.vercel.app/">Live Demo</a> 
   </p>
 </div>
 
@@ -61,6 +60,7 @@ Keep the filenames below, or update the paths to match your files.
 
 <p align="center">
   <img src="screenshots/04.png" alt="Interactive component preview with responsive device modes" width="100%" />
+  <img src="screenshots/05.png" alt="Interactive component preview with responsive device modes" width="100%" />
 </p>
 
 *Preview UI components before integrating them into a website.*
@@ -76,7 +76,7 @@ Keep the filenames below, or update the paths to match your files.
 ### 4. Customer Library
 
 <p align="center">
-  <img src="screenshots/05.png" alt="Customer library with purchased products" width="100%" />
+  <img src="screenshots/07.png" alt="Customer library with purchased products" width="100%" />
 </p>
 
 *Access purchased products through a personal library.*
