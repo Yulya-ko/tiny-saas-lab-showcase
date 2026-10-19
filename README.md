@@ -16,7 +16,7 @@
 
 <!-- Replace these image paths with your screenshots. -->
 <p align="center">
-  <img src="screenshots/product-overview.png" alt="Tiny SaaS Lab — product overview" width="100%" />
+  <img src="screenshots/01.png" alt="Tiny SaaS Lab — product overview" width="100%" />
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ Keep the filenames below, or update the paths to match your files.
 ### 1. Components Catalog
 
 <p align="center">
-  <img src="screenshots/components-catalog.png" alt="Components catalog with search, filters, and component cards" width="100%" />
+  <img src="screenshots/02.png" alt="Components catalog with search, filters, and component cards" width="100%" />
 </p>
 
 *Browse components, explore available options, and find suitable building blocks for your project.*
@@ -60,7 +60,7 @@ Keep the filenames below, or update the paths to match your files.
 ### 2. Interactive Component Preview
 
 <p align="center">
-  <img src="screenshots/responsive-preview.png" alt="Interactive component preview with responsive device modes" width="100%" />
+  <img src="screenshots/04.png" alt="Interactive component preview with responsive device modes" width="100%" />
 </p>
 
 *Preview UI components before integrating them into a website.*
