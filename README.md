@@ -68,7 +68,7 @@ Keep the filenames below, or update the paths to match your files.
 ### 3. Collections
 
 <p align="center">
-  <img src="screenshots/collection-preview.png" alt="Tiny SaaS Lab Collection preview" width="100%" />
+  <img src="screenshots/03.png" alt="Tiny SaaS Lab Collection preview" width="100%" />
 </p>
 
 *Explore coordinated sets of components designed around a specific website concept.*
@@ -76,7 +76,7 @@ Keep the filenames below, or update the paths to match your files.
 ### 4. Customer Library
 
 <p align="center">
-  <img src="screenshots/my-library.png" alt="Customer library with purchased products" width="100%" />
+  <img src="screenshots/05.png" alt="Customer library with purchased products" width="100%" />
 </p>
 
 *Access purchased products through a personal library.*
